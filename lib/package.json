@@ -1,0 +1,9 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "bin": {
+    "the-target": "bin/target.js"
+  },
+  "license": "ISC",
+  "type": "module"
+}

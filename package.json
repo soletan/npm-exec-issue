@@ -1,0 +1,11 @@
+{
+  "name": "npm-exec-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node try.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "lib": "file:./lib"
+  }
+}
